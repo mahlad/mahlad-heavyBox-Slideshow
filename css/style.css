@@ -1,0 +1,24 @@
+body{
+
+}
+div.hevybox-sl{
+	margin: 100px auto;
+	width: 900px;
+	height: 300px;
+	border: 1px solid;
+}
+div.hevybox-sl .s-img > a{
+	display: inherit;
+	float: left;
+	
+}
+div.dark{
+	position: fixed;
+	background:rgba(0,0,0,0.8) no-repeat center center;
+	display: none; 
+	top:0;
+	left:0;
+	right: 0;
+	bottom: 0;
+	opacity: 0;
+}
